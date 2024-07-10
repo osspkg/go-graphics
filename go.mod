@@ -1,4 +1,4 @@
-module go.osspkg.com/x/graphics
+module go.osspkg.com/graphics
 
 go 1.21
 
